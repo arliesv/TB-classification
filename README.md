@@ -8,3 +8,5 @@ Notably:
   - Optimization of MLP and SGD led to minimal improvement
   - If high accuracy desired, use CNN model; if high precision desired, use SVC; if high recall needed, use CNN
   - Best AUC score belongs to RFC, but poor recall
+
+For those curious, I also wrote a paper that details the process and explanations for each model used
